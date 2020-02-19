@@ -1,4 +1,4 @@
-# PINACOTECA WEBSITE 
+# PINACOTECA WEBSITE COPY
 
 - Making pinacoteca website for training
 
